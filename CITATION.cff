@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it and link to the dataset page."
+title: "VAT Test Data"
+abstract: "National-format VAT numbers for every country in the VAT registry, with the 2026 standard rate. Format-shaped synthetic values for fixtures; not verified registrations."
+type: dataset
+license: CC0-1.0
+version: "1.0.1"
+date-released: "2026-10-01"
+authors:
+  - name: "StanzaAPI"
+    website: "https://stanzaapi.com"
+repository-code: "https://github.com/StanzaAPI/vat-test-data"
+url: "https://stanzaapi.com/datasets/vat"

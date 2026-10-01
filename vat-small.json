@@ -1,0 +1,718 @@
+{
+  "name": "VAT Test Data",
+  "description": "National-format VAT numbers for every country in the VAT registry, with the 2026 standard rate. Format-shaped synthetic values for fixtures; not verified registrations.",
+  "source": "https://stanzaapi.com/datasets/vat",
+  "license": "CC0-1.0",
+  "validity": "structurally-synthetic",
+  "size": "small",
+  "count": 100,
+  "columns": [
+    "country_code",
+    "country_name",
+    "vat_number",
+    "format",
+    "standard_rate"
+  ],
+  "rows": [
+    {
+      "country_code": "AT",
+      "country_name": "Austria",
+      "vat_number": "AT531624056",
+      "format": "U followed by 8 digits",
+      "standard_rate": 20
+    },
+    {
+      "country_code": "BE",
+      "country_name": "Belgium",
+      "vat_number": "BE125308828",
+      "format": "10 digits starting with 0, mod-97 checksum",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "BG",
+      "country_name": "Bulgaria",
+      "vat_number": "BG022120123",
+      "format": "9 or 10 digits",
+      "standard_rate": 20
+    },
+    {
+      "country_code": "CY",
+      "country_name": "Cyprus",
+      "vat_number": "CY366881025",
+      "format": "8 digits followed by 1 letter",
+      "standard_rate": 19
+    },
+    {
+      "country_code": "CZ",
+      "country_name": "Czechia",
+      "vat_number": "CZ479160498",
+      "format": "8, 9 or 10 digits",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "vat_number": "DE819988798",
+      "format": "9 digits (Umsatzsteuer-Identifikationsnummer)",
+      "standard_rate": 19
+    },
+    {
+      "country_code": "DK",
+      "country_name": "Denmark",
+      "vat_number": "DK809818589",
+      "format": "8 digits, mod-11 checksum (CVR/Moms)",
+      "standard_rate": 25
+    },
+    {
+      "country_code": "EE",
+      "country_name": "Estonia",
+      "vat_number": "EE296928410",
+      "format": "9 digits (KMKR number)",
+      "standard_rate": 22
+    },
+    {
+      "country_code": "EL",
+      "country_name": "Greece",
+      "vat_number": "EL208256172",
+      "format": "9 digits (AFM number)",
+      "standard_rate": 24
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "vat_number": "ES813927769",
+      "format": "8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "FI",
+      "country_name": "Finland",
+      "vat_number": "FI012303238",
+      "format": "8 digits, mod-11 checksum (ALV-numero)",
+      "standard_rate": 25.5
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
+      "vat_number": "FR697958615",
+      "format": "2 alphanumeric characters followed by 9 digits (TVA)",
+      "standard_rate": 20
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "vat_number": "GB150004561",
+      "format": "9 digits, 12 digits, or GD/HA prefix plus 3 digits",
+      "standard_rate": 20
+    },
+    {
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "vat_number": "HR764975561",
+      "format": "11 digits (OIB number)",
+      "standard_rate": 25
+    },
+    {
+      "country_code": "HU",
+      "country_name": "Hungary",
+      "vat_number": "HU545923035",
+      "format": "8 digits (Adószám)",
+      "standard_rate": 27
+    },
+    {
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "vat_number": "IE157117878",
+      "format": "7 digits plus 1-2 letters (VAT number)",
+      "standard_rate": 23
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "vat_number": "IT395278935",
+      "format": "11 digits, Luhn-style checksum (Partita IVA)",
+      "standard_rate": 22
+    },
+    {
+      "country_code": "LT",
+      "country_name": "Lithuania",
+      "vat_number": "LT224231565",
+      "format": "9 to 12 digits (PVM mokėtojo kodas)",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "LU",
+      "country_name": "Luxembourg",
+      "vat_number": "LU545150575",
+      "format": "8 digits (Numéro d’identification TVA)",
+      "standard_rate": 17
+    },
+    {
+      "country_code": "LV",
+      "country_name": "Latvia",
+      "vat_number": "LV620749028",
+      "format": "11 digits (PVN numurs)",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "MT",
+      "country_name": "Malta",
+      "vat_number": "MT689518251",
+      "format": "8 digits (Vat Reg No)",
+      "standard_rate": 18
+    },
+    {
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "vat_number": "NL530556203",
+      "format": "9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "PL",
+      "country_name": "Poland",
+      "vat_number": "PL063282135",
+      "format": "10 digits, weighted mod-11 checksum (NIP)",
+      "standard_rate": 23
+    },
+    {
+      "country_code": "PT",
+      "country_name": "Portugal",
+      "vat_number": "PT328186066",
+      "format": "9 digits, weighted mod-11 checksum (NIF)",
+      "standard_rate": 23
+    },
+    {
+      "country_code": "RO",
+      "country_name": "Romania",
+      "vat_number": "RO386742250",
+      "format": "2 to 10 digits (Cod de identificare fiscală)",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "vat_number": "SE722185460",
+      "format": "12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",
+      "standard_rate": 25
+    },
+    {
+      "country_code": "SI",
+      "country_name": "Slovenia",
+      "vat_number": "SI017922520",
+      "format": "8 digits (ID za DDV)",
+      "standard_rate": 22
+    },
+    {
+      "country_code": "SK",
+      "country_name": "Slovakia",
+      "vat_number": "SK232380179",
+      "format": "10 digits (IČ DPH)",
+      "standard_rate": 23
+    },
+    {
+      "country_code": "AT",
+      "country_name": "Austria",
+      "vat_number": "AT412839441",
+      "format": "U followed by 8 digits",
+      "standard_rate": 20
+    },
+    {
+      "country_code": "BE",
+      "country_name": "Belgium",
+      "vat_number": "BE154928531",
+      "format": "10 digits starting with 0, mod-97 checksum",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "BG",
+      "country_name": "Bulgaria",
+      "vat_number": "BG729782104",
+      "format": "9 or 10 digits",
+      "standard_rate": 20
+    },
+    {
+      "country_code": "CY",
+      "country_name": "Cyprus",
+      "vat_number": "CY143736479",
+      "format": "8 digits followed by 1 letter",
+      "standard_rate": 19
+    },
+    {
+      "country_code": "CZ",
+      "country_name": "Czechia",
+      "vat_number": "CZ310372756",
+      "format": "8, 9 or 10 digits",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "vat_number": "DE771891520",
+      "format": "9 digits (Umsatzsteuer-Identifikationsnummer)",
+      "standard_rate": 19
+    },
+    {
+      "country_code": "DK",
+      "country_name": "Denmark",
+      "vat_number": "DK105411028",
+      "format": "8 digits, mod-11 checksum (CVR/Moms)",
+      "standard_rate": 25
+    },
+    {
+      "country_code": "EE",
+      "country_name": "Estonia",
+      "vat_number": "EE884220210",
+      "format": "9 digits (KMKR number)",
+      "standard_rate": 22
+    },
+    {
+      "country_code": "EL",
+      "country_name": "Greece",
+      "vat_number": "EL624823606",
+      "format": "9 digits (AFM number)",
+      "standard_rate": 24
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "vat_number": "ES684413406",
+      "format": "8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "FI",
+      "country_name": "Finland",
+      "vat_number": "FI130127411",
+      "format": "8 digits, mod-11 checksum (ALV-numero)",
+      "standard_rate": 25.5
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
+      "vat_number": "FR582329494",
+      "format": "2 alphanumeric characters followed by 9 digits (TVA)",
+      "standard_rate": 20
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "vat_number": "GB764175262",
+      "format": "9 digits, 12 digits, or GD/HA prefix plus 3 digits",
+      "standard_rate": 20
+    },
+    {
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "vat_number": "HR111414804",
+      "format": "11 digits (OIB number)",
+      "standard_rate": 25
+    },
+    {
+      "country_code": "HU",
+      "country_name": "Hungary",
+      "vat_number": "HU307009561",
+      "format": "8 digits (Adószám)",
+      "standard_rate": 27
+    },
+    {
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "vat_number": "IE805068422",
+      "format": "7 digits plus 1-2 letters (VAT number)",
+      "standard_rate": 23
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "vat_number": "IT492431364",
+      "format": "11 digits, Luhn-style checksum (Partita IVA)",
+      "standard_rate": 22
+    },
+    {
+      "country_code": "LT",
+      "country_name": "Lithuania",
+      "vat_number": "LT415109077",
+      "format": "9 to 12 digits (PVM mokėtojo kodas)",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "LU",
+      "country_name": "Luxembourg",
+      "vat_number": "LU792844843",
+      "format": "8 digits (Numéro d’identification TVA)",
+      "standard_rate": 17
+    },
+    {
+      "country_code": "LV",
+      "country_name": "Latvia",
+      "vat_number": "LV902842064",
+      "format": "11 digits (PVN numurs)",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "MT",
+      "country_name": "Malta",
+      "vat_number": "MT132206597",
+      "format": "8 digits (Vat Reg No)",
+      "standard_rate": 18
+    },
+    {
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "vat_number": "NL773480725",
+      "format": "9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "PL",
+      "country_name": "Poland",
+      "vat_number": "PL448900497",
+      "format": "10 digits, weighted mod-11 checksum (NIP)",
+      "standard_rate": 23
+    },
+    {
+      "country_code": "PT",
+      "country_name": "Portugal",
+      "vat_number": "PT974246444",
+      "format": "9 digits, weighted mod-11 checksum (NIF)",
+      "standard_rate": 23
+    },
+    {
+      "country_code": "RO",
+      "country_name": "Romania",
+      "vat_number": "RO203423774",
+      "format": "2 to 10 digits (Cod de identificare fiscală)",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "vat_number": "SE513189362",
+      "format": "12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",
+      "standard_rate": 25
+    },
+    {
+      "country_code": "SI",
+      "country_name": "Slovenia",
+      "vat_number": "SI869702167",
+      "format": "8 digits (ID za DDV)",
+      "standard_rate": 22
+    },
+    {
+      "country_code": "SK",
+      "country_name": "Slovakia",
+      "vat_number": "SK615294922",
+      "format": "10 digits (IČ DPH)",
+      "standard_rate": 23
+    },
+    {
+      "country_code": "AT",
+      "country_name": "Austria",
+      "vat_number": "AT242141322",
+      "format": "U followed by 8 digits",
+      "standard_rate": 20
+    },
+    {
+      "country_code": "BE",
+      "country_name": "Belgium",
+      "vat_number": "BE507410926",
+      "format": "10 digits starting with 0, mod-97 checksum",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "BG",
+      "country_name": "Bulgaria",
+      "vat_number": "BG465163681",
+      "format": "9 or 10 digits",
+      "standard_rate": 20
+    },
+    {
+      "country_code": "CY",
+      "country_name": "Cyprus",
+      "vat_number": "CY180907692",
+      "format": "8 digits followed by 1 letter",
+      "standard_rate": 19
+    },
+    {
+      "country_code": "CZ",
+      "country_name": "Czechia",
+      "vat_number": "CZ631433811",
+      "format": "8, 9 or 10 digits",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "vat_number": "DE050382395",
+      "format": "9 digits (Umsatzsteuer-Identifikationsnummer)",
+      "standard_rate": 19
+    },
+    {
+      "country_code": "DK",
+      "country_name": "Denmark",
+      "vat_number": "DK629304589",
+      "format": "8 digits, mod-11 checksum (CVR/Moms)",
+      "standard_rate": 25
+    },
+    {
+      "country_code": "EE",
+      "country_name": "Estonia",
+      "vat_number": "EE807204823",
+      "format": "9 digits (KMKR number)",
+      "standard_rate": 22
+    },
+    {
+      "country_code": "EL",
+      "country_name": "Greece",
+      "vat_number": "EL487101528",
+      "format": "9 digits (AFM number)",
+      "standard_rate": 24
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "vat_number": "ES474414665",
+      "format": "8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "FI",
+      "country_name": "Finland",
+      "vat_number": "FI881680842",
+      "format": "8 digits, mod-11 checksum (ALV-numero)",
+      "standard_rate": 25.5
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
+      "vat_number": "FR532511067",
+      "format": "2 alphanumeric characters followed by 9 digits (TVA)",
+      "standard_rate": 20
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "vat_number": "GB971269024",
+      "format": "9 digits, 12 digits, or GD/HA prefix plus 3 digits",
+      "standard_rate": 20
+    },
+    {
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "vat_number": "HR162194804",
+      "format": "11 digits (OIB number)",
+      "standard_rate": 25
+    },
+    {
+      "country_code": "HU",
+      "country_name": "Hungary",
+      "vat_number": "HU064071345",
+      "format": "8 digits (Adószám)",
+      "standard_rate": 27
+    },
+    {
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "vat_number": "IE914895355",
+      "format": "7 digits plus 1-2 letters (VAT number)",
+      "standard_rate": 23
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "vat_number": "IT327773223",
+      "format": "11 digits, Luhn-style checksum (Partita IVA)",
+      "standard_rate": 22
+    },
+    {
+      "country_code": "LT",
+      "country_name": "Lithuania",
+      "vat_number": "LT239206203",
+      "format": "9 to 12 digits (PVM mokėtojo kodas)",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "LU",
+      "country_name": "Luxembourg",
+      "vat_number": "LU532943795",
+      "format": "8 digits (Numéro d’identification TVA)",
+      "standard_rate": 17
+    },
+    {
+      "country_code": "LV",
+      "country_name": "Latvia",
+      "vat_number": "LV379600787",
+      "format": "11 digits (PVN numurs)",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "MT",
+      "country_name": "Malta",
+      "vat_number": "MT493001786",
+      "format": "8 digits (Vat Reg No)",
+      "standard_rate": 18
+    },
+    {
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "vat_number": "NL165424068",
+      "format": "9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "PL",
+      "country_name": "Poland",
+      "vat_number": "PL257966356",
+      "format": "10 digits, weighted mod-11 checksum (NIP)",
+      "standard_rate": 23
+    },
+    {
+      "country_code": "PT",
+      "country_name": "Portugal",
+      "vat_number": "PT354465060",
+      "format": "9 digits, weighted mod-11 checksum (NIF)",
+      "standard_rate": 23
+    },
+    {
+      "country_code": "RO",
+      "country_name": "Romania",
+      "vat_number": "RO368870500",
+      "format": "2 to 10 digits (Cod de identificare fiscală)",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "vat_number": "SE753943264",
+      "format": "12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",
+      "standard_rate": 25
+    },
+    {
+      "country_code": "SI",
+      "country_name": "Slovenia",
+      "vat_number": "SI056732605",
+      "format": "8 digits (ID za DDV)",
+      "standard_rate": 22
+    },
+    {
+      "country_code": "SK",
+      "country_name": "Slovakia",
+      "vat_number": "SK459440997",
+      "format": "10 digits (IČ DPH)",
+      "standard_rate": 23
+    },
+    {
+      "country_code": "AT",
+      "country_name": "Austria",
+      "vat_number": "AT133496052",
+      "format": "U followed by 8 digits",
+      "standard_rate": 20
+    },
+    {
+      "country_code": "BE",
+      "country_name": "Belgium",
+      "vat_number": "BE751177349",
+      "format": "10 digits starting with 0, mod-97 checksum",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "BG",
+      "country_name": "Bulgaria",
+      "vat_number": "BG766260297",
+      "format": "9 or 10 digits",
+      "standard_rate": 20
+    },
+    {
+      "country_code": "CY",
+      "country_name": "Cyprus",
+      "vat_number": "CY870380301",
+      "format": "8 digits followed by 1 letter",
+      "standard_rate": 19
+    },
+    {
+      "country_code": "CZ",
+      "country_name": "Czechia",
+      "vat_number": "CZ879486951",
+      "format": "8, 9 or 10 digits",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "vat_number": "DE307659059",
+      "format": "9 digits (Umsatzsteuer-Identifikationsnummer)",
+      "standard_rate": 19
+    },
+    {
+      "country_code": "DK",
+      "country_name": "Denmark",
+      "vat_number": "DK915160240",
+      "format": "8 digits, mod-11 checksum (CVR/Moms)",
+      "standard_rate": 25
+    },
+    {
+      "country_code": "EE",
+      "country_name": "Estonia",
+      "vat_number": "EE645331840",
+      "format": "9 digits (KMKR number)",
+      "standard_rate": 22
+    },
+    {
+      "country_code": "EL",
+      "country_name": "Greece",
+      "vat_number": "EL294783142",
+      "format": "9 digits (AFM number)",
+      "standard_rate": 24
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "vat_number": "ES673613717",
+      "format": "8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",
+      "standard_rate": 21
+    },
+    {
+      "country_code": "FI",
+      "country_name": "Finland",
+      "vat_number": "FI473039477",
+      "format": "8 digits, mod-11 checksum (ALV-numero)",
+      "standard_rate": 25.5
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
+      "vat_number": "FR218762720",
+      "format": "2 alphanumeric characters followed by 9 digits (TVA)",
+      "standard_rate": 20
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "vat_number": "GB776067621",
+      "format": "9 digits, 12 digits, or GD/HA prefix plus 3 digits",
+      "standard_rate": 20
+    },
+    {
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "vat_number": "HR767196465",
+      "format": "11 digits (OIB number)",
+      "standard_rate": 25
+    },
+    {
+      "country_code": "HU",
+      "country_name": "Hungary",
+      "vat_number": "HU906292066",
+      "format": "8 digits (Adószám)",
+      "standard_rate": 27
+    },
+    {
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "vat_number": "IE743928980",
+      "format": "7 digits plus 1-2 letters (VAT number)",
+      "standard_rate": 23
+    }
+  ]
+}
