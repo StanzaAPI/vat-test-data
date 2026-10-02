@@ -1,0 +1,2001 @@
+country_code,country_name,vat_number,format,standard_rate
+AT,Austria,AT430462576,U followed by 8 digits,20
+BE,Belgium,BE641628190,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG646957768,9 or 10 digits,20
+CY,Cyprus,CY023553493,8 digits followed by 1 letter,19
+CZ,Czechia,CZ539864333,"8, 9 or 10 digits",21
+DE,Germany,DE956642930,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK343124503,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE195851632,9 digits (KMKR number),22
+EL,Greece,EL112377372,9 digits (AFM number),24
+ES,Spain,ES506859228,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI992592803,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR301892648,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB220553634,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR014392850,11 digits (OIB number),25
+HU,Hungary,HU514449740,8 digits (Adószám),27
+IE,Ireland,IE815437597,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT199913088,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT466270860,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU811435058,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV906511634,11 digits (PVN numurs),21
+MT,Malta,MT219646811,8 digits (Vat Reg No),18
+NL,Netherlands,NL801477477,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL932610855,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT767847652,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO588068440,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE174576485,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI118642188,8 digits (ID za DDV),22
+SK,Slovakia,SK308694648,10 digits (IČ DPH),23
+AT,Austria,AT671575769,U followed by 8 digits,20
+BE,Belgium,BE429714164,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG170492150,9 or 10 digits,20
+CY,Cyprus,CY181885666,8 digits followed by 1 letter,19
+CZ,Czechia,CZ537905148,"8, 9 or 10 digits",21
+DE,Germany,DE605231276,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK415333649,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE601227038,9 digits (KMKR number),22
+EL,Greece,EL789192623,9 digits (AFM number),24
+ES,Spain,ES793172326,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI082418743,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR271997082,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB715631615,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR592913198,11 digits (OIB number),25
+HU,Hungary,HU379173495,8 digits (Adószám),27
+IE,Ireland,IE725345668,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT457003820,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT652463413,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU123833448,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV137939890,11 digits (PVN numurs),21
+MT,Malta,MT178081837,8 digits (Vat Reg No),18
+NL,Netherlands,NL312999676,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL559615293,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT274880966,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO890878290,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE729637540,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI548592728,8 digits (ID za DDV),22
+SK,Slovakia,SK838224328,10 digits (IČ DPH),23
+AT,Austria,AT916483836,U followed by 8 digits,20
+BE,Belgium,BE224080346,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG141665816,9 or 10 digits,20
+CY,Cyprus,CY610741183,8 digits followed by 1 letter,19
+CZ,Czechia,CZ289375654,"8, 9 or 10 digits",21
+DE,Germany,DE849331160,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK888368023,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE902660242,9 digits (KMKR number),22
+EL,Greece,EL723698731,9 digits (AFM number),24
+ES,Spain,ES065280631,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI746713665,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR764361309,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB522658117,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR989666165,11 digits (OIB number),25
+HU,Hungary,HU992803795,8 digits (Adószám),27
+IE,Ireland,IE676602040,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT525909218,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT135185733,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU865709112,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV931399078,11 digits (PVN numurs),21
+MT,Malta,MT695511953,8 digits (Vat Reg No),18
+NL,Netherlands,NL310252288,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL641386552,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT819678126,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO350892431,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE491148804,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI226730186,8 digits (ID za DDV),22
+SK,Slovakia,SK272626876,10 digits (IČ DPH),23
+AT,Austria,AT385550149,U followed by 8 digits,20
+BE,Belgium,BE227084037,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG881244677,9 or 10 digits,20
+CY,Cyprus,CY805701383,8 digits followed by 1 letter,19
+CZ,Czechia,CZ652842879,"8, 9 or 10 digits",21
+DE,Germany,DE160528801,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK227381552,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE530589598,9 digits (KMKR number),22
+EL,Greece,EL937164973,9 digits (AFM number),24
+ES,Spain,ES229615893,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI017538553,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR245873019,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB174136865,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR141444908,11 digits (OIB number),25
+HU,Hungary,HU714404160,8 digits (Adószám),27
+IE,Ireland,IE913412822,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT854762118,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT297244841,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU066822818,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV342446959,11 digits (PVN numurs),21
+MT,Malta,MT224951340,8 digits (Vat Reg No),18
+NL,Netherlands,NL467418482,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL837138945,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT573188382,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO468163086,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE302427050,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI538800437,8 digits (ID za DDV),22
+SK,Slovakia,SK708982362,10 digits (IČ DPH),23
+AT,Austria,AT296132114,U followed by 8 digits,20
+BE,Belgium,BE272398648,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG648783780,9 or 10 digits,20
+CY,Cyprus,CY685159468,8 digits followed by 1 letter,19
+CZ,Czechia,CZ221390454,"8, 9 or 10 digits",21
+DE,Germany,DE398413336,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK362687224,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE725177203,9 digits (KMKR number),22
+EL,Greece,EL168758502,9 digits (AFM number),24
+ES,Spain,ES479804735,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI436017032,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR251497259,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB427623135,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR348814122,11 digits (OIB number),25
+HU,Hungary,HU094682034,8 digits (Adószám),27
+IE,Ireland,IE342606925,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT604274616,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT059276714,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU324386969,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV870961933,11 digits (PVN numurs),21
+MT,Malta,MT000886043,8 digits (Vat Reg No),18
+NL,Netherlands,NL240753065,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL001635424,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT695127352,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO418799384,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE715397587,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI757879389,8 digits (ID za DDV),22
+SK,Slovakia,SK449856249,10 digits (IČ DPH),23
+AT,Austria,AT362652218,U followed by 8 digits,20
+BE,Belgium,BE049224428,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG636151625,9 or 10 digits,20
+CY,Cyprus,CY412002275,8 digits followed by 1 letter,19
+CZ,Czechia,CZ160910637,"8, 9 or 10 digits",21
+DE,Germany,DE997207418,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK265471585,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE996142236,9 digits (KMKR number),22
+EL,Greece,EL558835953,9 digits (AFM number),24
+ES,Spain,ES616308860,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI260202033,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR011713759,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB942233661,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR217406108,11 digits (OIB number),25
+HU,Hungary,HU506335724,8 digits (Adószám),27
+IE,Ireland,IE463048835,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT438594491,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT359198164,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU424322888,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV010954425,11 digits (PVN numurs),21
+MT,Malta,MT128907490,8 digits (Vat Reg No),18
+NL,Netherlands,NL411968308,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL404730821,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT670985083,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO186614872,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE707718878,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI116332323,8 digits (ID za DDV),22
+SK,Slovakia,SK200211470,10 digits (IČ DPH),23
+AT,Austria,AT161924058,U followed by 8 digits,20
+BE,Belgium,BE418890928,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG809661907,9 or 10 digits,20
+CY,Cyprus,CY440041962,8 digits followed by 1 letter,19
+CZ,Czechia,CZ889513226,"8, 9 or 10 digits",21
+DE,Germany,DE884814704,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK393461782,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE089842209,9 digits (KMKR number),22
+EL,Greece,EL548860947,9 digits (AFM number),24
+ES,Spain,ES083717566,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI271411757,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR975315308,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB739438069,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR778872716,11 digits (OIB number),25
+HU,Hungary,HU902614349,8 digits (Adószám),27
+IE,Ireland,IE412115889,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT436749897,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT032506918,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU982043529,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV620957821,11 digits (PVN numurs),21
+MT,Malta,MT608133441,8 digits (Vat Reg No),18
+NL,Netherlands,NL463783375,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL622161330,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT883004704,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO355661376,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE641516498,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI739307389,8 digits (ID za DDV),22
+SK,Slovakia,SK562079669,10 digits (IČ DPH),23
+AT,Austria,AT064587477,U followed by 8 digits,20
+BE,Belgium,BE722120096,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG837398829,9 or 10 digits,20
+CY,Cyprus,CY375005001,8 digits followed by 1 letter,19
+CZ,Czechia,CZ644286051,"8, 9 or 10 digits",21
+DE,Germany,DE758356212,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK925988738,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE945886952,9 digits (KMKR number),22
+EL,Greece,EL803398021,9 digits (AFM number),24
+ES,Spain,ES267641007,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI111835916,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR782163738,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB648435598,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR269161747,11 digits (OIB number),25
+HU,Hungary,HU024067920,8 digits (Adószám),27
+IE,Ireland,IE150689146,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT797720691,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT338802119,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU739820730,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV756474763,11 digits (PVN numurs),21
+MT,Malta,MT122079050,8 digits (Vat Reg No),18
+NL,Netherlands,NL436372215,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL889315881,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT360404595,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO483958078,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE474701622,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI164485868,8 digits (ID za DDV),22
+SK,Slovakia,SK496666953,10 digits (IČ DPH),23
+AT,Austria,AT097663047,U followed by 8 digits,20
+BE,Belgium,BE162375971,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG012854797,9 or 10 digits,20
+CY,Cyprus,CY634172982,8 digits followed by 1 letter,19
+CZ,Czechia,CZ244287749,"8, 9 or 10 digits",21
+DE,Germany,DE737758483,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK483217175,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE693630455,9 digits (KMKR number),22
+EL,Greece,EL385657191,9 digits (AFM number),24
+ES,Spain,ES259009201,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI980217212,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR420754057,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB549012213,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR905919874,11 digits (OIB number),25
+HU,Hungary,HU647777938,8 digits (Adószám),27
+IE,Ireland,IE940408717,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT736250939,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT653584846,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU331897374,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV628806038,11 digits (PVN numurs),21
+MT,Malta,MT072383360,8 digits (Vat Reg No),18
+NL,Netherlands,NL630158514,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL482856739,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT910094518,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO930465626,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE580413461,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI209708205,8 digits (ID za DDV),22
+SK,Slovakia,SK127256163,10 digits (IČ DPH),23
+AT,Austria,AT404773232,U followed by 8 digits,20
+BE,Belgium,BE784986098,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG132101346,9 or 10 digits,20
+CY,Cyprus,CY706542661,8 digits followed by 1 letter,19
+CZ,Czechia,CZ983176615,"8, 9 or 10 digits",21
+DE,Germany,DE392493289,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK188042927,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE134868448,9 digits (KMKR number),22
+EL,Greece,EL002358125,9 digits (AFM number),24
+ES,Spain,ES122842869,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI597773459,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR165749646,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB670983480,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR603521757,11 digits (OIB number),25
+HU,Hungary,HU067963263,8 digits (Adószám),27
+IE,Ireland,IE047229282,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT981416684,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT772849583,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU074198680,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV288746492,11 digits (PVN numurs),21
+MT,Malta,MT020110881,8 digits (Vat Reg No),18
+NL,Netherlands,NL097523106,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL340640082,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT060881548,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO923043996,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE134281447,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI655304254,8 digits (ID za DDV),22
+SK,Slovakia,SK996784375,10 digits (IČ DPH),23
+AT,Austria,AT881315734,U followed by 8 digits,20
+BE,Belgium,BE827836319,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG070079891,9 or 10 digits,20
+CY,Cyprus,CY766459571,8 digits followed by 1 letter,19
+CZ,Czechia,CZ904238859,"8, 9 or 10 digits",21
+DE,Germany,DE287063064,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK885432801,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE402933637,9 digits (KMKR number),22
+EL,Greece,EL927151409,9 digits (AFM number),24
+ES,Spain,ES607414589,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI991243200,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR636990818,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB678341237,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR063474752,11 digits (OIB number),25
+HU,Hungary,HU977782215,8 digits (Adószám),27
+IE,Ireland,IE924347596,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT603336218,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT205766717,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU056412160,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV397930710,11 digits (PVN numurs),21
+MT,Malta,MT028609418,8 digits (Vat Reg No),18
+NL,Netherlands,NL506342395,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL856115342,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT618427623,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO482202699,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE235458486,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI135388667,8 digits (ID za DDV),22
+SK,Slovakia,SK637096663,10 digits (IČ DPH),23
+AT,Austria,AT125649773,U followed by 8 digits,20
+BE,Belgium,BE988462259,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG882019591,9 or 10 digits,20
+CY,Cyprus,CY689521458,8 digits followed by 1 letter,19
+CZ,Czechia,CZ990576147,"8, 9 or 10 digits",21
+DE,Germany,DE103643013,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK685772865,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE287303458,9 digits (KMKR number),22
+EL,Greece,EL039461347,9 digits (AFM number),24
+ES,Spain,ES888269701,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI801335652,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR362018819,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB905565251,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR210546080,11 digits (OIB number),25
+HU,Hungary,HU762627789,8 digits (Adószám),27
+IE,Ireland,IE723556271,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT988877295,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT286534310,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU780820927,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV658861246,11 digits (PVN numurs),21
+MT,Malta,MT247457993,8 digits (Vat Reg No),18
+NL,Netherlands,NL783465056,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL155016903,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT205756116,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO973396243,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE878011912,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI889212338,8 digits (ID za DDV),22
+SK,Slovakia,SK693032303,10 digits (IČ DPH),23
+AT,Austria,AT318511402,U followed by 8 digits,20
+BE,Belgium,BE008598444,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG762013186,9 or 10 digits,20
+CY,Cyprus,CY972855113,8 digits followed by 1 letter,19
+CZ,Czechia,CZ785402546,"8, 9 or 10 digits",21
+DE,Germany,DE995798040,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK875465555,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE864764741,9 digits (KMKR number),22
+EL,Greece,EL474426868,9 digits (AFM number),24
+ES,Spain,ES981072598,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI425218403,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR595163953,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB545585283,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR508988964,11 digits (OIB number),25
+HU,Hungary,HU883392627,8 digits (Adószám),27
+IE,Ireland,IE113268343,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT978530905,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT094851566,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU685534307,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV966971197,11 digits (PVN numurs),21
+MT,Malta,MT868768620,8 digits (Vat Reg No),18
+NL,Netherlands,NL195138611,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL359266629,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT295905034,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO206607141,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE726629476,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI824419960,8 digits (ID za DDV),22
+SK,Slovakia,SK170961710,10 digits (IČ DPH),23
+AT,Austria,AT509652226,U followed by 8 digits,20
+BE,Belgium,BE601863945,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG988899886,9 or 10 digits,20
+CY,Cyprus,CY939487795,8 digits followed by 1 letter,19
+CZ,Czechia,CZ027707880,"8, 9 or 10 digits",21
+DE,Germany,DE168314207,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK236997970,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE078790532,9 digits (KMKR number),22
+EL,Greece,EL707319653,9 digits (AFM number),24
+ES,Spain,ES752870418,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI303490232,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR471961061,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB178115982,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR417770526,11 digits (OIB number),25
+HU,Hungary,HU135521676,8 digits (Adószám),27
+IE,Ireland,IE653503118,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT298337088,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT851502046,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU777491440,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV091045891,11 digits (PVN numurs),21
+MT,Malta,MT576956848,8 digits (Vat Reg No),18
+NL,Netherlands,NL895318505,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL309125400,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT344781918,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO801498753,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE701357146,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI078440748,8 digits (ID za DDV),22
+SK,Slovakia,SK058992134,10 digits (IČ DPH),23
+AT,Austria,AT795233394,U followed by 8 digits,20
+BE,Belgium,BE135381476,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG341390638,9 or 10 digits,20
+CY,Cyprus,CY332821747,8 digits followed by 1 letter,19
+CZ,Czechia,CZ436667259,"8, 9 or 10 digits",21
+DE,Germany,DE887671523,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK382328759,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE090876249,9 digits (KMKR number),22
+EL,Greece,EL522241948,9 digits (AFM number),24
+ES,Spain,ES223945028,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI034117203,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR782832636,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB914421726,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR402364950,11 digits (OIB number),25
+HU,Hungary,HU547305139,8 digits (Adószám),27
+IE,Ireland,IE010005546,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT148818966,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT407486859,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU525216956,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV385363721,11 digits (PVN numurs),21
+MT,Malta,MT950977161,8 digits (Vat Reg No),18
+NL,Netherlands,NL616319160,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL891892322,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT916892849,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO018408167,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE441315938,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI394384527,8 digits (ID za DDV),22
+SK,Slovakia,SK640214135,10 digits (IČ DPH),23
+AT,Austria,AT411573495,U followed by 8 digits,20
+BE,Belgium,BE081439514,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG030987105,9 or 10 digits,20
+CY,Cyprus,CY403991719,8 digits followed by 1 letter,19
+CZ,Czechia,CZ670469264,"8, 9 or 10 digits",21
+DE,Germany,DE642090467,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK387498801,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE418181843,9 digits (KMKR number),22
+EL,Greece,EL463285880,9 digits (AFM number),24
+ES,Spain,ES186698104,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI780162337,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR211053821,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB080234199,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR938152966,11 digits (OIB number),25
+HU,Hungary,HU628845871,8 digits (Adószám),27
+IE,Ireland,IE003012735,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT131476420,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT533735518,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU055802423,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV851565055,11 digits (PVN numurs),21
+MT,Malta,MT671619042,8 digits (Vat Reg No),18
+NL,Netherlands,NL691564300,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL760977310,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT113053159,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO529694547,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE225172179,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI134193734,8 digits (ID za DDV),22
+SK,Slovakia,SK774903933,10 digits (IČ DPH),23
+AT,Austria,AT425088508,U followed by 8 digits,20
+BE,Belgium,BE507755756,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG254414539,9 or 10 digits,20
+CY,Cyprus,CY965929636,8 digits followed by 1 letter,19
+CZ,Czechia,CZ360007741,"8, 9 or 10 digits",21
+DE,Germany,DE812070413,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK140992041,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE219363623,9 digits (KMKR number),22
+EL,Greece,EL655715317,9 digits (AFM number),24
+ES,Spain,ES328459004,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI415046543,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR355801855,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB074874209,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR858575495,11 digits (OIB number),25
+HU,Hungary,HU972352749,8 digits (Adószám),27
+IE,Ireland,IE758874228,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT157565509,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT189317150,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU787300927,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV193850913,11 digits (PVN numurs),21
+MT,Malta,MT000180217,8 digits (Vat Reg No),18
+NL,Netherlands,NL061846267,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL642812760,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT172328092,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO752987291,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE783936777,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI625248613,8 digits (ID za DDV),22
+SK,Slovakia,SK598480056,10 digits (IČ DPH),23
+AT,Austria,AT011918265,U followed by 8 digits,20
+BE,Belgium,BE896291780,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG183548151,9 or 10 digits,20
+CY,Cyprus,CY348119060,8 digits followed by 1 letter,19
+CZ,Czechia,CZ587783984,"8, 9 or 10 digits",21
+DE,Germany,DE424098312,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK438652227,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE655478036,9 digits (KMKR number),22
+EL,Greece,EL324691224,9 digits (AFM number),24
+ES,Spain,ES305549739,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI714474195,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR891843213,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB002868424,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR249591247,11 digits (OIB number),25
+HU,Hungary,HU829351925,8 digits (Adószám),27
+IE,Ireland,IE909222053,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT647356551,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT517488332,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU570116512,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV715162866,11 digits (PVN numurs),21
+MT,Malta,MT737258971,8 digits (Vat Reg No),18
+NL,Netherlands,NL761503432,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL932075834,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT780741099,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO034900992,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE516747739,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI284746286,8 digits (ID za DDV),22
+SK,Slovakia,SK618971761,10 digits (IČ DPH),23
+AT,Austria,AT651197026,U followed by 8 digits,20
+BE,Belgium,BE487975106,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG240390057,9 or 10 digits,20
+CY,Cyprus,CY821947084,8 digits followed by 1 letter,19
+CZ,Czechia,CZ180023992,"8, 9 or 10 digits",21
+DE,Germany,DE807829424,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK215494621,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE925364148,9 digits (KMKR number),22
+EL,Greece,EL423612126,9 digits (AFM number),24
+ES,Spain,ES607662886,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI568189319,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR218378308,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB598722932,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR948620845,11 digits (OIB number),25
+HU,Hungary,HU049616485,8 digits (Adószám),27
+IE,Ireland,IE469112634,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT938500821,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT278511489,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU152157345,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV710206107,11 digits (PVN numurs),21
+MT,Malta,MT134934836,8 digits (Vat Reg No),18
+NL,Netherlands,NL702412888,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL525055878,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT959706145,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO581602243,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE068955265,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI293766689,8 digits (ID za DDV),22
+SK,Slovakia,SK892269303,10 digits (IČ DPH),23
+AT,Austria,AT934652841,U followed by 8 digits,20
+BE,Belgium,BE706696558,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG882890433,9 or 10 digits,20
+CY,Cyprus,CY512966820,8 digits followed by 1 letter,19
+CZ,Czechia,CZ711448710,"8, 9 or 10 digits",21
+DE,Germany,DE554559524,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK700498264,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE773081570,9 digits (KMKR number),22
+EL,Greece,EL629941924,9 digits (AFM number),24
+ES,Spain,ES230278990,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI695792629,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR193117444,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB178458104,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR532884700,11 digits (OIB number),25
+HU,Hungary,HU109553636,8 digits (Adószám),27
+IE,Ireland,IE057690131,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT282651880,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT922085075,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU980181500,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV379273513,11 digits (PVN numurs),21
+MT,Malta,MT841838461,8 digits (Vat Reg No),18
+NL,Netherlands,NL417594022,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL205945600,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT423894714,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO671084447,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE795095907,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI319260314,8 digits (ID za DDV),22
+SK,Slovakia,SK245748371,10 digits (IČ DPH),23
+AT,Austria,AT725359563,U followed by 8 digits,20
+BE,Belgium,BE057266461,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG738929228,9 or 10 digits,20
+CY,Cyprus,CY304708188,8 digits followed by 1 letter,19
+CZ,Czechia,CZ464851908,"8, 9 or 10 digits",21
+DE,Germany,DE773370832,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK504566675,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE093475584,9 digits (KMKR number),22
+EL,Greece,EL892319480,9 digits (AFM number),24
+ES,Spain,ES480845922,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI675939649,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR444633946,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB456480479,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR403644930,11 digits (OIB number),25
+HU,Hungary,HU561693218,8 digits (Adószám),27
+IE,Ireland,IE544226851,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT588259080,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT836040532,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU415987072,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV169399372,11 digits (PVN numurs),21
+MT,Malta,MT234298878,8 digits (Vat Reg No),18
+NL,Netherlands,NL823598713,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL387305813,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT056584960,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO110297307,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE706433873,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI764552948,8 digits (ID za DDV),22
+SK,Slovakia,SK484565961,10 digits (IČ DPH),23
+AT,Austria,AT392848337,U followed by 8 digits,20
+BE,Belgium,BE306842470,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG657632555,9 or 10 digits,20
+CY,Cyprus,CY872070949,8 digits followed by 1 letter,19
+CZ,Czechia,CZ933604630,"8, 9 or 10 digits",21
+DE,Germany,DE468740477,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK846773165,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE192638316,9 digits (KMKR number),22
+EL,Greece,EL842908035,9 digits (AFM number),24
+ES,Spain,ES869124959,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI866074777,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR909294311,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB482552695,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR129898421,11 digits (OIB number),25
+HU,Hungary,HU010712077,8 digits (Adószám),27
+IE,Ireland,IE796657618,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT449802284,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT571791071,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU243246343,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV806232933,11 digits (PVN numurs),21
+MT,Malta,MT263663044,8 digits (Vat Reg No),18
+NL,Netherlands,NL376423234,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL538276113,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT479261750,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO771311448,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE807101306,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI941325081,8 digits (ID za DDV),22
+SK,Slovakia,SK350315611,10 digits (IČ DPH),23
+AT,Austria,AT118793534,U followed by 8 digits,20
+BE,Belgium,BE467076314,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG488710052,9 or 10 digits,20
+CY,Cyprus,CY466056246,8 digits followed by 1 letter,19
+CZ,Czechia,CZ989249940,"8, 9 or 10 digits",21
+DE,Germany,DE981354150,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK224230281,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE263805653,9 digits (KMKR number),22
+EL,Greece,EL578458758,9 digits (AFM number),24
+ES,Spain,ES858948185,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI887856649,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR927062633,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB615797829,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR544096429,11 digits (OIB number),25
+HU,Hungary,HU240019422,8 digits (Adószám),27
+IE,Ireland,IE864256200,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT557301694,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT422039855,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU865802944,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV799510588,11 digits (PVN numurs),21
+MT,Malta,MT163612332,8 digits (Vat Reg No),18
+NL,Netherlands,NL376608719,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL269157830,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT659319850,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO300284786,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE434910998,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI055640384,8 digits (ID za DDV),22
+SK,Slovakia,SK309913949,10 digits (IČ DPH),23
+AT,Austria,AT192302627,U followed by 8 digits,20
+BE,Belgium,BE030155253,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG884230390,9 or 10 digits,20
+CY,Cyprus,CY632889914,8 digits followed by 1 letter,19
+CZ,Czechia,CZ792002763,"8, 9 or 10 digits",21
+DE,Germany,DE805624765,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK789683309,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE445005865,9 digits (KMKR number),22
+EL,Greece,EL717673764,9 digits (AFM number),24
+ES,Spain,ES379802822,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI924384218,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR847028991,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB665112627,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR092066062,11 digits (OIB number),25
+HU,Hungary,HU765309987,8 digits (Adószám),27
+IE,Ireland,IE038110372,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT819173332,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT691615647,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU876350530,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV663284744,11 digits (PVN numurs),21
+MT,Malta,MT669226430,8 digits (Vat Reg No),18
+NL,Netherlands,NL257112138,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL357132620,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT129491160,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO494680224,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE457855435,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI314067561,8 digits (ID za DDV),22
+SK,Slovakia,SK831582896,10 digits (IČ DPH),23
+AT,Austria,AT634410220,U followed by 8 digits,20
+BE,Belgium,BE372769133,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG992326154,9 or 10 digits,20
+CY,Cyprus,CY198072802,8 digits followed by 1 letter,19
+CZ,Czechia,CZ373555139,"8, 9 or 10 digits",21
+DE,Germany,DE453204983,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK909163899,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE561110509,9 digits (KMKR number),22
+EL,Greece,EL807654330,9 digits (AFM number),24
+ES,Spain,ES464948862,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI629268124,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR116073825,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB188664004,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR748280752,11 digits (OIB number),25
+HU,Hungary,HU348749369,8 digits (Adószám),27
+IE,Ireland,IE909327619,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT920998759,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT103241476,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU070657748,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV857610240,11 digits (PVN numurs),21
+MT,Malta,MT468593639,8 digits (Vat Reg No),18
+NL,Netherlands,NL465937339,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL892378512,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT681826489,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO367040608,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE941513990,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI065518478,8 digits (ID za DDV),22
+SK,Slovakia,SK367337611,10 digits (IČ DPH),23
+AT,Austria,AT705111105,U followed by 8 digits,20
+BE,Belgium,BE759270419,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG873034322,9 or 10 digits,20
+CY,Cyprus,CY607914240,8 digits followed by 1 letter,19
+CZ,Czechia,CZ254408933,"8, 9 or 10 digits",21
+DE,Germany,DE325171672,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK924371222,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE201023290,9 digits (KMKR number),22
+EL,Greece,EL875952140,9 digits (AFM number),24
+ES,Spain,ES525371827,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI597005102,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR782131792,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB360071985,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR198293109,11 digits (OIB number),25
+HU,Hungary,HU003898491,8 digits (Adószám),27
+IE,Ireland,IE417081201,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT177682083,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT437051637,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU962683691,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV649680897,11 digits (PVN numurs),21
+MT,Malta,MT217880434,8 digits (Vat Reg No),18
+NL,Netherlands,NL766685704,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL682701657,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT346733242,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO126769820,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE858893426,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI814480815,8 digits (ID za DDV),22
+SK,Slovakia,SK925421677,10 digits (IČ DPH),23
+AT,Austria,AT527066799,U followed by 8 digits,20
+BE,Belgium,BE989821028,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG221360135,9 or 10 digits,20
+CY,Cyprus,CY330621567,8 digits followed by 1 letter,19
+CZ,Czechia,CZ282238481,"8, 9 or 10 digits",21
+DE,Germany,DE652488228,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK830333223,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE379963730,9 digits (KMKR number),22
+EL,Greece,EL955101228,9 digits (AFM number),24
+ES,Spain,ES257006413,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI228043553,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR930174156,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB854227936,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR135297569,11 digits (OIB number),25
+HU,Hungary,HU156751202,8 digits (Adószám),27
+IE,Ireland,IE439825399,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT737820668,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT174278878,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU970785929,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV802594749,11 digits (PVN numurs),21
+MT,Malta,MT020389794,8 digits (Vat Reg No),18
+NL,Netherlands,NL050346370,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL329630858,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT320303648,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO942172737,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE709073321,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI604831907,8 digits (ID za DDV),22
+SK,Slovakia,SK913662748,10 digits (IČ DPH),23
+AT,Austria,AT869131161,U followed by 8 digits,20
+BE,Belgium,BE608914008,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG573813269,9 or 10 digits,20
+CY,Cyprus,CY173757787,8 digits followed by 1 letter,19
+CZ,Czechia,CZ826169715,"8, 9 or 10 digits",21
+DE,Germany,DE141355541,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK034090086,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE129019822,9 digits (KMKR number),22
+EL,Greece,EL129316120,9 digits (AFM number),24
+ES,Spain,ES774488036,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI936821590,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR857827117,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB413521790,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR990685822,11 digits (OIB number),25
+HU,Hungary,HU827418528,8 digits (Adószám),27
+IE,Ireland,IE803244516,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT288822891,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT163089996,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU705213736,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV396384617,11 digits (PVN numurs),21
+MT,Malta,MT633575671,8 digits (Vat Reg No),18
+NL,Netherlands,NL628596872,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL556518865,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT369523134,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO610860705,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE668934350,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI220282123,8 digits (ID za DDV),22
+SK,Slovakia,SK339906184,10 digits (IČ DPH),23
+AT,Austria,AT898387344,U followed by 8 digits,20
+BE,Belgium,BE660427728,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG129514754,9 or 10 digits,20
+CY,Cyprus,CY233096313,8 digits followed by 1 letter,19
+CZ,Czechia,CZ092616375,"8, 9 or 10 digits",21
+DE,Germany,DE779554273,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK080704287,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE399549742,9 digits (KMKR number),22
+EL,Greece,EL242705925,9 digits (AFM number),24
+ES,Spain,ES354328927,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI873227200,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR340768730,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB381392630,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR257823297,11 digits (OIB number),25
+HU,Hungary,HU214531509,8 digits (Adószám),27
+IE,Ireland,IE440678370,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT304849376,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT723549832,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU443298569,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV119137493,11 digits (PVN numurs),21
+MT,Malta,MT867150129,8 digits (Vat Reg No),18
+NL,Netherlands,NL865378047,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL083599909,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT852832508,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO902579854,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE926425801,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI203691623,8 digits (ID za DDV),22
+SK,Slovakia,SK607106618,10 digits (IČ DPH),23
+AT,Austria,AT785720671,U followed by 8 digits,20
+BE,Belgium,BE237972455,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG873876893,9 or 10 digits,20
+CY,Cyprus,CY299085022,8 digits followed by 1 letter,19
+CZ,Czechia,CZ105622915,"8, 9 or 10 digits",21
+DE,Germany,DE737500313,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK938255430,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE230113280,9 digits (KMKR number),22
+EL,Greece,EL471443067,9 digits (AFM number),24
+ES,Spain,ES888464640,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI465176864,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR731892813,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB521426675,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR839099505,11 digits (OIB number),25
+HU,Hungary,HU361024646,8 digits (Adószám),27
+IE,Ireland,IE477877036,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT546370679,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT390356278,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU041659416,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV295759546,11 digits (PVN numurs),21
+MT,Malta,MT992661411,8 digits (Vat Reg No),18
+NL,Netherlands,NL877618191,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL692681454,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT004231569,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO015337985,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE527623379,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI697948074,8 digits (ID za DDV),22
+SK,Slovakia,SK544921617,10 digits (IČ DPH),23
+AT,Austria,AT342932134,U followed by 8 digits,20
+BE,Belgium,BE650535674,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG253372744,9 or 10 digits,20
+CY,Cyprus,CY437553656,8 digits followed by 1 letter,19
+CZ,Czechia,CZ566752621,"8, 9 or 10 digits",21
+DE,Germany,DE388124819,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK687503070,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE084567536,9 digits (KMKR number),22
+EL,Greece,EL000136050,9 digits (AFM number),24
+ES,Spain,ES049494410,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI385538042,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR114941533,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB723917995,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR495987544,11 digits (OIB number),25
+HU,Hungary,HU436354710,8 digits (Adószám),27
+IE,Ireland,IE446163372,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT395204191,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT430774850,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU918688652,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV526983024,11 digits (PVN numurs),21
+MT,Malta,MT072738167,8 digits (Vat Reg No),18
+NL,Netherlands,NL322992714,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL476614241,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT690728982,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO121846928,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE355768551,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI889942204,8 digits (ID za DDV),22
+SK,Slovakia,SK106848387,10 digits (IČ DPH),23
+AT,Austria,AT693093603,U followed by 8 digits,20
+BE,Belgium,BE199066903,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG964008376,9 or 10 digits,20
+CY,Cyprus,CY880082710,8 digits followed by 1 letter,19
+CZ,Czechia,CZ599070241,"8, 9 or 10 digits",21
+DE,Germany,DE751417377,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK530102679,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE607429740,9 digits (KMKR number),22
+EL,Greece,EL500884667,9 digits (AFM number),24
+ES,Spain,ES664338448,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI119291634,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR475173663,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB829973974,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR307989361,11 digits (OIB number),25
+HU,Hungary,HU750161406,8 digits (Adószám),27
+IE,Ireland,IE500645264,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT707761477,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT263778063,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU115169341,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV413006473,11 digits (PVN numurs),21
+MT,Malta,MT489089879,8 digits (Vat Reg No),18
+NL,Netherlands,NL119907099,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL138720479,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT257290454,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO642638012,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE526094181,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI809003709,8 digits (ID za DDV),22
+SK,Slovakia,SK709239853,10 digits (IČ DPH),23
+AT,Austria,AT554716426,U followed by 8 digits,20
+BE,Belgium,BE093595180,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG008593532,9 or 10 digits,20
+CY,Cyprus,CY400600922,8 digits followed by 1 letter,19
+CZ,Czechia,CZ212601302,"8, 9 or 10 digits",21
+DE,Germany,DE953325947,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK007760284,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE982175952,9 digits (KMKR number),22
+EL,Greece,EL988122548,9 digits (AFM number),24
+ES,Spain,ES830486467,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI468496202,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR128861210,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB981396411,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR884741803,11 digits (OIB number),25
+HU,Hungary,HU840566736,8 digits (Adószám),27
+IE,Ireland,IE922815873,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT282288326,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT110455127,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU553897335,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV602920285,11 digits (PVN numurs),21
+MT,Malta,MT958561637,8 digits (Vat Reg No),18
+NL,Netherlands,NL121182051,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL257234814,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT724044399,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO019765954,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE077405715,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI785082103,8 digits (ID za DDV),22
+SK,Slovakia,SK613199328,10 digits (IČ DPH),23
+AT,Austria,AT019037338,U followed by 8 digits,20
+BE,Belgium,BE537013324,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG767373491,9 or 10 digits,20
+CY,Cyprus,CY057282235,8 digits followed by 1 letter,19
+CZ,Czechia,CZ691559237,"8, 9 or 10 digits",21
+DE,Germany,DE478637906,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK701296055,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE753909595,9 digits (KMKR number),22
+EL,Greece,EL296240205,9 digits (AFM number),24
+ES,Spain,ES884232735,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI334095372,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR658952186,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB766306655,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR146806735,11 digits (OIB number),25
+HU,Hungary,HU721043866,8 digits (Adószám),27
+IE,Ireland,IE707032934,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT601063536,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT294074661,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU303601909,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV281261197,11 digits (PVN numurs),21
+MT,Malta,MT293024974,8 digits (Vat Reg No),18
+NL,Netherlands,NL355294760,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL165033135,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT789109741,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO173232464,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE591619018,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI100433233,8 digits (ID za DDV),22
+SK,Slovakia,SK610169538,10 digits (IČ DPH),23
+AT,Austria,AT490262577,U followed by 8 digits,20
+BE,Belgium,BE623384885,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG678027882,9 or 10 digits,20
+CY,Cyprus,CY336194991,8 digits followed by 1 letter,19
+CZ,Czechia,CZ154201711,"8, 9 or 10 digits",21
+DE,Germany,DE919197388,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK362040651,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE447327935,9 digits (KMKR number),22
+EL,Greece,EL444789413,9 digits (AFM number),24
+ES,Spain,ES748466163,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI975954507,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR309879243,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB003170252,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR785060333,11 digits (OIB number),25
+HU,Hungary,HU410367283,8 digits (Adószám),27
+IE,Ireland,IE941224781,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT272644122,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT183784755,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU985448735,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV445485617,11 digits (PVN numurs),21
+MT,Malta,MT748055637,8 digits (Vat Reg No),18
+NL,Netherlands,NL168587885,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL939157489,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT140984006,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO857813900,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE451089136,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI508389605,8 digits (ID za DDV),22
+SK,Slovakia,SK943316623,10 digits (IČ DPH),23
+AT,Austria,AT887298955,U followed by 8 digits,20
+BE,Belgium,BE557067062,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG964102308,9 or 10 digits,20
+CY,Cyprus,CY050587118,8 digits followed by 1 letter,19
+CZ,Czechia,CZ163238505,"8, 9 or 10 digits",21
+DE,Germany,DE283992532,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK431115317,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE795020148,9 digits (KMKR number),22
+EL,Greece,EL693496372,9 digits (AFM number),24
+ES,Spain,ES460595706,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI479308085,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR701988449,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB430579219,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR612837584,11 digits (OIB number),25
+HU,Hungary,HU364908638,8 digits (Adószám),27
+IE,Ireland,IE791642243,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT092606938,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT743993842,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU616441014,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV193214651,11 digits (PVN numurs),21
+MT,Malta,MT328879130,8 digits (Vat Reg No),18
+NL,Netherlands,NL534086274,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL972927430,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT478531712,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO660349439,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE223672824,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI490430074,8 digits (ID za DDV),22
+SK,Slovakia,SK836207446,10 digits (IČ DPH),23
+AT,Austria,AT409209644,U followed by 8 digits,20
+BE,Belgium,BE761107791,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG378141396,9 or 10 digits,20
+CY,Cyprus,CY817061410,8 digits followed by 1 letter,19
+CZ,Czechia,CZ550404867,"8, 9 or 10 digits",21
+DE,Germany,DE105158280,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK255806673,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE259496548,9 digits (KMKR number),22
+EL,Greece,EL835371379,9 digits (AFM number),24
+ES,Spain,ES934084723,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI053857195,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR379720936,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB167412463,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR349887662,11 digits (OIB number),25
+HU,Hungary,HU508967509,8 digits (Adószám),27
+IE,Ireland,IE087099510,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT190837776,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT262121734,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU985821980,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV143526980,11 digits (PVN numurs),21
+MT,Malta,MT200642552,8 digits (Vat Reg No),18
+NL,Netherlands,NL544045917,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL620297763,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT099922630,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO518702400,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE162254021,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI078869279,8 digits (ID za DDV),22
+SK,Slovakia,SK582887824,10 digits (IČ DPH),23
+AT,Austria,AT662950426,U followed by 8 digits,20
+BE,Belgium,BE324349647,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG904506729,9 or 10 digits,20
+CY,Cyprus,CY423956290,8 digits followed by 1 letter,19
+CZ,Czechia,CZ864657461,"8, 9 or 10 digits",21
+DE,Germany,DE980555452,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK039562646,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE022667263,9 digits (KMKR number),22
+EL,Greece,EL956530914,9 digits (AFM number),24
+ES,Spain,ES541844666,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI692581999,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR343388230,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB265284973,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR807778742,11 digits (OIB number),25
+HU,Hungary,HU633118860,8 digits (Adószám),27
+IE,Ireland,IE508048284,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT776535442,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT213904571,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU543045142,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV644857945,11 digits (PVN numurs),21
+MT,Malta,MT387158477,8 digits (Vat Reg No),18
+NL,Netherlands,NL655629962,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL948105721,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT646213574,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO612215890,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE445882397,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI336789657,8 digits (ID za DDV),22
+SK,Slovakia,SK566250821,10 digits (IČ DPH),23
+AT,Austria,AT331773110,U followed by 8 digits,20
+BE,Belgium,BE505435061,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG070698293,9 or 10 digits,20
+CY,Cyprus,CY314410895,8 digits followed by 1 letter,19
+CZ,Czechia,CZ824024851,"8, 9 or 10 digits",21
+DE,Germany,DE967269614,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK281715221,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE723628959,9 digits (KMKR number),22
+EL,Greece,EL298480498,9 digits (AFM number),24
+ES,Spain,ES835721422,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI176521539,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR330556871,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB188820427,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR577881879,11 digits (OIB number),25
+HU,Hungary,HU043974220,8 digits (Adószám),27
+IE,Ireland,IE944726511,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT172912310,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT816933315,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU115907323,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV113639637,11 digits (PVN numurs),21
+MT,Malta,MT554435410,8 digits (Vat Reg No),18
+NL,Netherlands,NL566455508,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL836497993,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT887236366,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO372666495,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE673821845,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI088770226,8 digits (ID za DDV),22
+SK,Slovakia,SK015169712,10 digits (IČ DPH),23
+AT,Austria,AT791960909,U followed by 8 digits,20
+BE,Belgium,BE361051029,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG336381127,9 or 10 digits,20
+CY,Cyprus,CY225991478,8 digits followed by 1 letter,19
+CZ,Czechia,CZ426378324,"8, 9 or 10 digits",21
+DE,Germany,DE323292288,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK608663386,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE682407366,9 digits (KMKR number),22
+EL,Greece,EL763330651,9 digits (AFM number),24
+ES,Spain,ES721866286,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI700549446,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR850975311,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB241604067,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR188979440,11 digits (OIB number),25
+HU,Hungary,HU978483003,8 digits (Adószám),27
+IE,Ireland,IE772206863,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT523316320,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT347674898,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU040547236,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV868986976,11 digits (PVN numurs),21
+MT,Malta,MT299794536,8 digits (Vat Reg No),18
+NL,Netherlands,NL398454929,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL999150834,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT357654605,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO872055699,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE745357177,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI080081906,8 digits (ID za DDV),22
+SK,Slovakia,SK543514006,10 digits (IČ DPH),23
+AT,Austria,AT021054378,U followed by 8 digits,20
+BE,Belgium,BE370861123,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG296300632,9 or 10 digits,20
+CY,Cyprus,CY119613937,8 digits followed by 1 letter,19
+CZ,Czechia,CZ512644539,"8, 9 or 10 digits",21
+DE,Germany,DE342777544,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK384976612,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE241244952,9 digits (KMKR number),22
+EL,Greece,EL093719647,9 digits (AFM number),24
+ES,Spain,ES028617537,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI974572492,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR403119786,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB415799070,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR721497603,11 digits (OIB number),25
+HU,Hungary,HU414816345,8 digits (Adószám),27
+IE,Ireland,IE197683504,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT107438273,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT845897981,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU433975510,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV058241758,11 digits (PVN numurs),21
+MT,Malta,MT929271715,8 digits (Vat Reg No),18
+NL,Netherlands,NL014041225,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL287655908,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT874266153,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO919253609,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE666914093,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI214951375,8 digits (ID za DDV),22
+SK,Slovakia,SK752502039,10 digits (IČ DPH),23
+AT,Austria,AT931073813,U followed by 8 digits,20
+BE,Belgium,BE313500796,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG589672538,9 or 10 digits,20
+CY,Cyprus,CY519690963,8 digits followed by 1 letter,19
+CZ,Czechia,CZ371180752,"8, 9 or 10 digits",21
+DE,Germany,DE365515435,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK780316576,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE669070622,9 digits (KMKR number),22
+EL,Greece,EL993475399,9 digits (AFM number),24
+ES,Spain,ES136555756,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI165399121,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR644445423,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB101746171,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR481578808,11 digits (OIB number),25
+HU,Hungary,HU210306811,8 digits (Adószám),27
+IE,Ireland,IE185528504,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT113222534,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT359922816,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU336289128,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV943707445,11 digits (PVN numurs),21
+MT,Malta,MT780613590,8 digits (Vat Reg No),18
+NL,Netherlands,NL753440003,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL207574536,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT238392658,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO450786401,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE332928553,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI749554769,8 digits (ID za DDV),22
+SK,Slovakia,SK412571440,10 digits (IČ DPH),23
+AT,Austria,AT961931882,U followed by 8 digits,20
+BE,Belgium,BE033552749,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG792633379,9 or 10 digits,20
+CY,Cyprus,CY303463776,8 digits followed by 1 letter,19
+CZ,Czechia,CZ883877599,"8, 9 or 10 digits",21
+DE,Germany,DE069171178,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK840668823,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE992422338,9 digits (KMKR number),22
+EL,Greece,EL531330061,9 digits (AFM number),24
+ES,Spain,ES458141612,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI887346787,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR900025368,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB287657795,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR509602761,11 digits (OIB number),25
+HU,Hungary,HU215070429,8 digits (Adószám),27
+IE,Ireland,IE111966821,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT142364528,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT247387275,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU401278222,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV927993067,11 digits (PVN numurs),21
+MT,Malta,MT988147441,8 digits (Vat Reg No),18
+NL,Netherlands,NL080303312,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL798457090,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT891140004,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO083517115,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE831265760,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI581825100,8 digits (ID za DDV),22
+SK,Slovakia,SK803102575,10 digits (IČ DPH),23
+AT,Austria,AT959396422,U followed by 8 digits,20
+BE,Belgium,BE401599469,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG532512874,9 or 10 digits,20
+CY,Cyprus,CY176073644,8 digits followed by 1 letter,19
+CZ,Czechia,CZ182212536,"8, 9 or 10 digits",21
+DE,Germany,DE152821927,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK936176295,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE811134832,9 digits (KMKR number),22
+EL,Greece,EL772573631,9 digits (AFM number),24
+ES,Spain,ES572987215,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI738054996,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR506715695,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB536501746,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR171743896,11 digits (OIB number),25
+HU,Hungary,HU927724721,8 digits (Adószám),27
+IE,Ireland,IE982250044,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT512505840,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT217424933,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU115539684,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV106415242,11 digits (PVN numurs),21
+MT,Malta,MT593115481,8 digits (Vat Reg No),18
+NL,Netherlands,NL856988414,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL601628470,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT118834072,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO518193511,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE871422585,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI341062170,8 digits (ID za DDV),22
+SK,Slovakia,SK360170010,10 digits (IČ DPH),23
+AT,Austria,AT071058587,U followed by 8 digits,20
+BE,Belgium,BE723921553,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG688053853,9 or 10 digits,20
+CY,Cyprus,CY315043813,8 digits followed by 1 letter,19
+CZ,Czechia,CZ818362745,"8, 9 or 10 digits",21
+DE,Germany,DE183421490,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK636627229,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE598138071,9 digits (KMKR number),22
+EL,Greece,EL501612528,9 digits (AFM number),24
+ES,Spain,ES179242414,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI470071303,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR250598562,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB555517144,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR931578411,11 digits (OIB number),25
+HU,Hungary,HU606112819,8 digits (Adószám),27
+IE,Ireland,IE636472117,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT935946357,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT495070981,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU534624441,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV718718368,11 digits (PVN numurs),21
+MT,Malta,MT817808431,8 digits (Vat Reg No),18
+NL,Netherlands,NL392271899,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL782665832,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT658060152,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO266318618,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE745584171,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI286244514,8 digits (ID za DDV),22
+SK,Slovakia,SK552015109,10 digits (IČ DPH),23
+AT,Austria,AT223510772,U followed by 8 digits,20
+BE,Belgium,BE248168185,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG207886751,9 or 10 digits,20
+CY,Cyprus,CY084953990,8 digits followed by 1 letter,19
+CZ,Czechia,CZ694130147,"8, 9 or 10 digits",21
+DE,Germany,DE499101213,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK657879002,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE877366706,9 digits (KMKR number),22
+EL,Greece,EL550078534,9 digits (AFM number),24
+ES,Spain,ES623149726,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI831249918,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR638732047,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB605729967,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR431802402,11 digits (OIB number),25
+HU,Hungary,HU175387296,8 digits (Adószám),27
+IE,Ireland,IE666164219,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT473346191,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT053778407,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU295445136,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV938583729,11 digits (PVN numurs),21
+MT,Malta,MT054318549,8 digits (Vat Reg No),18
+NL,Netherlands,NL034086715,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL985667355,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT697411893,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO254827725,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE801732461,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI066122726,8 digits (ID za DDV),22
+SK,Slovakia,SK223625513,10 digits (IČ DPH),23
+AT,Austria,AT385301797,U followed by 8 digits,20
+BE,Belgium,BE396697726,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG543224937,9 or 10 digits,20
+CY,Cyprus,CY016965682,8 digits followed by 1 letter,19
+CZ,Czechia,CZ838099405,"8, 9 or 10 digits",21
+DE,Germany,DE978712658,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK130629219,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE253405416,9 digits (KMKR number),22
+EL,Greece,EL586080726,9 digits (AFM number),24
+ES,Spain,ES877906264,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI022920065,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR100013735,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB577254434,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR274025392,11 digits (OIB number),25
+HU,Hungary,HU423710367,8 digits (Adószám),27
+IE,Ireland,IE476161305,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT378944262,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT634340322,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU808467585,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV450525268,11 digits (PVN numurs),21
+MT,Malta,MT607658800,8 digits (Vat Reg No),18
+NL,Netherlands,NL267885858,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL006494309,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT727484148,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO679551558,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE207018732,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI643333765,8 digits (ID za DDV),22
+SK,Slovakia,SK532407696,10 digits (IČ DPH),23
+AT,Austria,AT258697285,U followed by 8 digits,20
+BE,Belgium,BE508098627,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG241053139,9 or 10 digits,20
+CY,Cyprus,CY987525047,8 digits followed by 1 letter,19
+CZ,Czechia,CZ610019580,"8, 9 or 10 digits",21
+DE,Germany,DE207462093,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK064443047,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE762430110,9 digits (KMKR number),22
+EL,Greece,EL460862442,9 digits (AFM number),24
+ES,Spain,ES099770473,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI159067680,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR803759628,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB892729041,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR090930146,11 digits (OIB number),25
+HU,Hungary,HU559756764,8 digits (Adószám),27
+IE,Ireland,IE800480155,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT340250104,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT580679236,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU935186388,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV353335604,11 digits (PVN numurs),21
+MT,Malta,MT731091667,8 digits (Vat Reg No),18
+NL,Netherlands,NL727871313,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL139735544,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT103678258,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO343017959,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE076637874,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI865160492,8 digits (ID za DDV),22
+SK,Slovakia,SK096162512,10 digits (IČ DPH),23
+AT,Austria,AT721703240,U followed by 8 digits,20
+BE,Belgium,BE050163052,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG658422983,9 or 10 digits,20
+CY,Cyprus,CY221147307,8 digits followed by 1 letter,19
+CZ,Czechia,CZ169367624,"8, 9 or 10 digits",21
+DE,Germany,DE559343618,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK800113399,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE776834051,9 digits (KMKR number),22
+EL,Greece,EL846279520,9 digits (AFM number),24
+ES,Spain,ES627829484,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI687889670,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR318034758,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB446038428,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR213453327,11 digits (OIB number),25
+HU,Hungary,HU413817612,8 digits (Adószám),27
+IE,Ireland,IE766682640,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT011655082,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT342634618,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU589533238,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV987557302,11 digits (PVN numurs),21
+MT,Malta,MT005298976,8 digits (Vat Reg No),18
+NL,Netherlands,NL805046831,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL223070004,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT079372750,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO293712530,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE517544949,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI594812435,8 digits (ID za DDV),22
+SK,Slovakia,SK126487194,10 digits (IČ DPH),23
+AT,Austria,AT748438342,U followed by 8 digits,20
+BE,Belgium,BE842951644,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG107348352,9 or 10 digits,20
+CY,Cyprus,CY926558604,8 digits followed by 1 letter,19
+CZ,Czechia,CZ571615259,"8, 9 or 10 digits",21
+DE,Germany,DE389251271,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK811753632,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE890657661,9 digits (KMKR number),22
+EL,Greece,EL302961844,9 digits (AFM number),24
+ES,Spain,ES424513660,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI203606091,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR617488362,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB799028456,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR801112005,11 digits (OIB number),25
+HU,Hungary,HU526204565,8 digits (Adószám),27
+IE,Ireland,IE536393701,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT529482993,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT944574204,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU767797551,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV417685090,11 digits (PVN numurs),21
+MT,Malta,MT999607528,8 digits (Vat Reg No),18
+NL,Netherlands,NL125050222,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL739391310,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT558851512,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO952984151,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE026650709,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI002980432,8 digits (ID za DDV),22
+SK,Slovakia,SK301307451,10 digits (IČ DPH),23
+AT,Austria,AT278849898,U followed by 8 digits,20
+BE,Belgium,BE365354019,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG281756617,9 or 10 digits,20
+CY,Cyprus,CY508945216,8 digits followed by 1 letter,19
+CZ,Czechia,CZ584307126,"8, 9 or 10 digits",21
+DE,Germany,DE040057047,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK645966183,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE155878860,9 digits (KMKR number),22
+EL,Greece,EL989502940,9 digits (AFM number),24
+ES,Spain,ES596532514,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI951878729,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR877059983,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB644649283,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR564633148,11 digits (OIB number),25
+HU,Hungary,HU068623693,8 digits (Adószám),27
+IE,Ireland,IE396819919,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT220771362,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT789839515,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU362712355,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV706211625,11 digits (PVN numurs),21
+MT,Malta,MT933503838,8 digits (Vat Reg No),18
+NL,Netherlands,NL445639064,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL431415926,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT952993577,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO269134787,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE169971324,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI744115478,8 digits (ID za DDV),22
+SK,Slovakia,SK010698770,10 digits (IČ DPH),23
+AT,Austria,AT600969516,U followed by 8 digits,20
+BE,Belgium,BE023681139,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG261974764,9 or 10 digits,20
+CY,Cyprus,CY436493614,8 digits followed by 1 letter,19
+CZ,Czechia,CZ284362583,"8, 9 or 10 digits",21
+DE,Germany,DE741312935,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK312858939,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE758317053,9 digits (KMKR number),22
+EL,Greece,EL212178801,9 digits (AFM number),24
+ES,Spain,ES235337739,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI589415336,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR322328929,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB948982042,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR624425841,11 digits (OIB number),25
+HU,Hungary,HU763012599,8 digits (Adószám),27
+IE,Ireland,IE791846983,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT521543673,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT451271132,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU511486971,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV242434822,11 digits (PVN numurs),21
+MT,Malta,MT214668308,8 digits (Vat Reg No),18
+NL,Netherlands,NL180645159,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL379021478,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT007634803,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO827911610,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE863175472,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI890256051,8 digits (ID za DDV),22
+SK,Slovakia,SK027316511,10 digits (IČ DPH),23
+AT,Austria,AT471646050,U followed by 8 digits,20
+BE,Belgium,BE899951956,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG996540614,9 or 10 digits,20
+CY,Cyprus,CY071352620,8 digits followed by 1 letter,19
+CZ,Czechia,CZ538474704,"8, 9 or 10 digits",21
+DE,Germany,DE616380780,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK353407416,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE043916580,9 digits (KMKR number),22
+EL,Greece,EL149407421,9 digits (AFM number),24
+ES,Spain,ES258309439,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI467854579,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR716583287,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB297915310,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR703422159,11 digits (OIB number),25
+HU,Hungary,HU640634451,8 digits (Adószám),27
+IE,Ireland,IE076505815,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT111380227,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT331341936,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU470171863,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV877433231,11 digits (PVN numurs),21
+MT,Malta,MT429430067,8 digits (Vat Reg No),18
+NL,Netherlands,NL465131487,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL627328794,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT135212646,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO879206222,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE572782289,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI777697602,8 digits (ID za DDV),22
+SK,Slovakia,SK935297736,10 digits (IČ DPH),23
+AT,Austria,AT196776779,U followed by 8 digits,20
+BE,Belgium,BE986612560,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG989486204,9 or 10 digits,20
+CY,Cyprus,CY449737015,8 digits followed by 1 letter,19
+CZ,Czechia,CZ332337972,"8, 9 or 10 digits",21
+DE,Germany,DE731845053,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK938399379,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE678636312,9 digits (KMKR number),22
+EL,Greece,EL292856325,9 digits (AFM number),24
+ES,Spain,ES616247555,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI768646275,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR735866062,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB394511164,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR452643209,11 digits (OIB number),25
+HU,Hungary,HU357356852,8 digits (Adószám),27
+IE,Ireland,IE232123843,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT500115592,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT862772474,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU033031352,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV188178865,11 digits (PVN numurs),21
+MT,Malta,MT591349324,8 digits (Vat Reg No),18
+NL,Netherlands,NL440838943,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL846740634,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT859428362,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO057127966,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE439731164,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI831623212,8 digits (ID za DDV),22
+SK,Slovakia,SK316765301,10 digits (IČ DPH),23
+AT,Austria,AT667646857,U followed by 8 digits,20
+BE,Belgium,BE882573259,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG425742436,9 or 10 digits,20
+CY,Cyprus,CY951703805,8 digits followed by 1 letter,19
+CZ,Czechia,CZ874945045,"8, 9 or 10 digits",21
+DE,Germany,DE016580326,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK461863066,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE246070709,9 digits (KMKR number),22
+EL,Greece,EL912120742,9 digits (AFM number),24
+ES,Spain,ES485719027,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI579031274,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR896927985,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB685662996,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR796037364,11 digits (OIB number),25
+HU,Hungary,HU306558864,8 digits (Adószám),27
+IE,Ireland,IE141890592,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT639641554,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT126122632,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU317117938,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV006603259,11 digits (PVN numurs),21
+MT,Malta,MT492319397,8 digits (Vat Reg No),18
+NL,Netherlands,NL603284707,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL978054000,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT279311044,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO682720114,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE492060623,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI593964096,8 digits (ID za DDV),22
+SK,Slovakia,SK307055113,10 digits (IČ DPH),23
+AT,Austria,AT074609658,U followed by 8 digits,20
+BE,Belgium,BE716604850,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG100345113,9 or 10 digits,20
+CY,Cyprus,CY429887795,8 digits followed by 1 letter,19
+CZ,Czechia,CZ618697930,"8, 9 or 10 digits",21
+DE,Germany,DE019001786,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK641437878,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE591091945,9 digits (KMKR number),22
+EL,Greece,EL639500000,9 digits (AFM number),24
+ES,Spain,ES830799392,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI540669409,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR591954059,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB281548891,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR212255350,11 digits (OIB number),25
+HU,Hungary,HU689246671,8 digits (Adószám),27
+IE,Ireland,IE622761497,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT223985600,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT774742432,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU771045320,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV445035296,11 digits (PVN numurs),21
+MT,Malta,MT810407594,8 digits (Vat Reg No),18
+NL,Netherlands,NL516404695,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL997136532,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT456787169,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO529626207,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE910411017,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI703815154,8 digits (ID za DDV),22
+SK,Slovakia,SK242278211,10 digits (IČ DPH),23
+AT,Austria,AT222263962,U followed by 8 digits,20
+BE,Belgium,BE395213415,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG236892233,9 or 10 digits,20
+CY,Cyprus,CY289158137,8 digits followed by 1 letter,19
+CZ,Czechia,CZ999239225,"8, 9 or 10 digits",21
+DE,Germany,DE692138658,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK332310849,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE667449641,9 digits (KMKR number),22
+EL,Greece,EL679912894,9 digits (AFM number),24
+ES,Spain,ES864013582,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI235159520,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR967747582,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB230746376,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR660454774,11 digits (OIB number),25
+HU,Hungary,HU071387949,8 digits (Adószám),27
+IE,Ireland,IE119787975,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT249795408,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT704347870,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU068232639,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV221631813,11 digits (PVN numurs),21
+MT,Malta,MT408390101,8 digits (Vat Reg No),18
+NL,Netherlands,NL226806161,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL668243104,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT898699028,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO268933708,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE363632815,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI241918193,8 digits (ID za DDV),22
+SK,Slovakia,SK661789585,10 digits (IČ DPH),23
+AT,Austria,AT584462338,U followed by 8 digits,20
+BE,Belgium,BE272278994,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG096152235,9 or 10 digits,20
+CY,Cyprus,CY683460944,8 digits followed by 1 letter,19
+CZ,Czechia,CZ491879700,"8, 9 or 10 digits",21
+DE,Germany,DE249428749,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK168540100,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE653527784,9 digits (KMKR number),22
+EL,Greece,EL448177103,9 digits (AFM number),24
+ES,Spain,ES617047581,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI751339386,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR679044621,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB730783993,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR436777076,11 digits (OIB number),25
+HU,Hungary,HU884937191,8 digits (Adószám),27
+IE,Ireland,IE395102821,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT616071601,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT504494720,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU637565919,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV723098261,11 digits (PVN numurs),21
+MT,Malta,MT316348021,8 digits (Vat Reg No),18
+NL,Netherlands,NL745075638,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL145725718,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT321677611,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO404515437,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE110491465,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI219866798,8 digits (ID za DDV),22
+SK,Slovakia,SK206471894,10 digits (IČ DPH),23
+AT,Austria,AT092471638,U followed by 8 digits,20
+BE,Belgium,BE692412857,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG965919204,9 or 10 digits,20
+CY,Cyprus,CY395840322,8 digits followed by 1 letter,19
+CZ,Czechia,CZ812735107,"8, 9 or 10 digits",21
+DE,Germany,DE484579593,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK594188503,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE952171895,9 digits (KMKR number),22
+EL,Greece,EL746095240,9 digits (AFM number),24
+ES,Spain,ES450981326,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI889996198,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR290496709,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB564775134,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR268425092,11 digits (OIB number),25
+HU,Hungary,HU900262523,8 digits (Adószám),27
+IE,Ireland,IE130405555,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT024900377,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT931351865,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU795440833,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV742565833,11 digits (PVN numurs),21
+MT,Malta,MT438917121,8 digits (Vat Reg No),18
+NL,Netherlands,NL232854224,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL665298401,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT541385500,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO864752520,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE598855633,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI817285355,8 digits (ID za DDV),22
+SK,Slovakia,SK023715453,10 digits (IČ DPH),23
+AT,Austria,AT238291142,U followed by 8 digits,20
+BE,Belgium,BE203650307,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG556004734,9 or 10 digits,20
+CY,Cyprus,CY225556435,8 digits followed by 1 letter,19
+CZ,Czechia,CZ527503233,"8, 9 or 10 digits",21
+DE,Germany,DE530023454,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK909650611,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE800979064,9 digits (KMKR number),22
+EL,Greece,EL941116252,9 digits (AFM number),24
+ES,Spain,ES750344287,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI971078146,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR884592369,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB635076702,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR370595946,11 digits (OIB number),25
+HU,Hungary,HU944709937,8 digits (Adószám),27
+IE,Ireland,IE514742182,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT982957522,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT794516279,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU296399452,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV267355739,11 digits (PVN numurs),21
+MT,Malta,MT896151683,8 digits (Vat Reg No),18
+NL,Netherlands,NL710306144,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL283371522,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT837943219,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO161871723,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE773181592,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI136178081,8 digits (ID za DDV),22
+SK,Slovakia,SK082341289,10 digits (IČ DPH),23
+AT,Austria,AT134240930,U followed by 8 digits,20
+BE,Belgium,BE733451071,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG067350448,9 or 10 digits,20
+CY,Cyprus,CY426652613,8 digits followed by 1 letter,19
+CZ,Czechia,CZ699786688,"8, 9 or 10 digits",21
+DE,Germany,DE538507633,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK157647419,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE443833198,9 digits (KMKR number),22
+EL,Greece,EL516554351,9 digits (AFM number),24
+ES,Spain,ES811571379,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI101490910,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR230864351,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB618808069,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR202447723,11 digits (OIB number),25
+HU,Hungary,HU286880593,8 digits (Adószám),27
+IE,Ireland,IE154607133,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT131999172,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT430910917,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU723558166,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV616854531,11 digits (PVN numurs),21
+MT,Malta,MT321295857,8 digits (Vat Reg No),18
+NL,Netherlands,NL792617491,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL740946553,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT901470741,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO735810595,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE843780793,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI581191267,8 digits (ID za DDV),22
+SK,Slovakia,SK367910490,10 digits (IČ DPH),23
+AT,Austria,AT228333311,U followed by 8 digits,20
+BE,Belgium,BE186608774,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG713611900,9 or 10 digits,20
+CY,Cyprus,CY180221904,8 digits followed by 1 letter,19
+CZ,Czechia,CZ642404480,"8, 9 or 10 digits",21
+DE,Germany,DE675163597,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK733226705,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE017659141,9 digits (KMKR number),22
+EL,Greece,EL783741218,9 digits (AFM number),24
+ES,Spain,ES696024053,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI010994272,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR701149076,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB120823469,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR219568823,11 digits (OIB number),25
+HU,Hungary,HU845376896,8 digits (Adószám),27
+IE,Ireland,IE347172153,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT231743786,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT776962783,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU315544353,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV880665817,11 digits (PVN numurs),21
+MT,Malta,MT973868006,8 digits (Vat Reg No),18
+NL,Netherlands,NL502114599,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL700257337,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT792427570,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO649805991,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE718085535,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI582709387,8 digits (ID za DDV),22
+SK,Slovakia,SK712761230,10 digits (IČ DPH),23
+AT,Austria,AT051920233,U followed by 8 digits,20
+BE,Belgium,BE940142058,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG851136455,9 or 10 digits,20
+CY,Cyprus,CY646833834,8 digits followed by 1 letter,19
+CZ,Czechia,CZ707385280,"8, 9 or 10 digits",21
+DE,Germany,DE173923749,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK094512129,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE036836727,9 digits (KMKR number),22
+EL,Greece,EL234199940,9 digits (AFM number),24
+ES,Spain,ES943937179,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI571659083,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR629167658,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB011854218,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR586212970,11 digits (OIB number),25
+HU,Hungary,HU605333009,8 digits (Adószám),27
+IE,Ireland,IE659564747,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT059205713,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT905362920,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU473060500,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV753200121,11 digits (PVN numurs),21
+MT,Malta,MT838485207,8 digits (Vat Reg No),18
+NL,Netherlands,NL686150118,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL310369233,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT629488514,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO365775282,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE071293684,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI879580714,8 digits (ID za DDV),22
+SK,Slovakia,SK649661774,10 digits (IČ DPH),23
+AT,Austria,AT357938960,U followed by 8 digits,20
+BE,Belgium,BE191019916,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG871411051,9 or 10 digits,20
+CY,Cyprus,CY640397196,8 digits followed by 1 letter,19
+CZ,Czechia,CZ728676124,"8, 9 or 10 digits",21
+DE,Germany,DE043944818,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK034482013,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE404765273,9 digits (KMKR number),22
+EL,Greece,EL506083010,9 digits (AFM number),24
+ES,Spain,ES556401082,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI857411795,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR529496165,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB734741803,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR137164285,11 digits (OIB number),25
+HU,Hungary,HU235629254,8 digits (Adószám),27
+IE,Ireland,IE262108032,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT811547929,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT504438731,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU678962489,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV531904529,11 digits (PVN numurs),21
+MT,Malta,MT159559641,8 digits (Vat Reg No),18
+NL,Netherlands,NL624828459,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL479383462,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT385061472,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO502440230,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE065494853,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI137224309,8 digits (ID za DDV),22
+SK,Slovakia,SK236970360,10 digits (IČ DPH),23
+AT,Austria,AT089116527,U followed by 8 digits,20
+BE,Belgium,BE412674505,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG321936522,9 or 10 digits,20
+CY,Cyprus,CY480577189,8 digits followed by 1 letter,19
+CZ,Czechia,CZ629478701,"8, 9 or 10 digits",21
+DE,Germany,DE916954146,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK645059345,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE699788074,9 digits (KMKR number),22
+EL,Greece,EL787242051,9 digits (AFM number),24
+ES,Spain,ES459041796,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI822437470,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR398533532,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB050529534,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR487518869,11 digits (OIB number),25
+HU,Hungary,HU800419968,8 digits (Adószám),27
+IE,Ireland,IE555580570,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT238150237,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT724910891,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU541996310,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV019581487,11 digits (PVN numurs),21
+MT,Malta,MT271152381,8 digits (Vat Reg No),18
+NL,Netherlands,NL166040233,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL520633440,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT273039743,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO207831578,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE271139002,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI139813682,8 digits (ID za DDV),22
+SK,Slovakia,SK534290728,10 digits (IČ DPH),23
+AT,Austria,AT408318282,U followed by 8 digits,20
+BE,Belgium,BE655127745,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG952987836,9 or 10 digits,20
+CY,Cyprus,CY055471687,8 digits followed by 1 letter,19
+CZ,Czechia,CZ345146247,"8, 9 or 10 digits",21
+DE,Germany,DE443665677,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK789851535,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE945129446,9 digits (KMKR number),22
+EL,Greece,EL388507171,9 digits (AFM number),24
+ES,Spain,ES333146866,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI078038978,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR638920562,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB492900713,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR655900970,11 digits (OIB number),25
+HU,Hungary,HU942900848,8 digits (Adószám),27
+IE,Ireland,IE033075549,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT805660230,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT113495531,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU488292905,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV926659962,11 digits (PVN numurs),21
+MT,Malta,MT571291072,8 digits (Vat Reg No),18
+NL,Netherlands,NL371790813,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL318270954,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT569157571,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO677552013,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE348219484,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI281689140,8 digits (ID za DDV),22
+SK,Slovakia,SK198778995,10 digits (IČ DPH),23
+AT,Austria,AT243750376,U followed by 8 digits,20
+BE,Belgium,BE591264742,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG550268572,9 or 10 digits,20
+CY,Cyprus,CY965628534,8 digits followed by 1 letter,19
+CZ,Czechia,CZ812892122,"8, 9 or 10 digits",21
+DE,Germany,DE293837966,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK545808335,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE859803597,9 digits (KMKR number),22
+EL,Greece,EL460839709,9 digits (AFM number),24
+ES,Spain,ES090780484,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI001710493,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR728325582,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB739624449,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR566996839,11 digits (OIB number),25
+HU,Hungary,HU438940122,8 digits (Adószám),27
+IE,Ireland,IE093246081,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT402433998,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT869278403,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU645437403,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV228948044,11 digits (PVN numurs),21
+MT,Malta,MT837667258,8 digits (Vat Reg No),18
+NL,Netherlands,NL034368540,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL346868294,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT002274457,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO227021316,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE475908713,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI264405706,8 digits (ID za DDV),22
+SK,Slovakia,SK246909390,10 digits (IČ DPH),23
+AT,Austria,AT694812827,U followed by 8 digits,20
+BE,Belgium,BE292057694,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG141436813,9 or 10 digits,20
+CY,Cyprus,CY883572641,8 digits followed by 1 letter,19
+CZ,Czechia,CZ900717526,"8, 9 or 10 digits",21
+DE,Germany,DE666563136,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK809189544,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE691601270,9 digits (KMKR number),22
+EL,Greece,EL710725720,9 digits (AFM number),24
+ES,Spain,ES654766015,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI644972234,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR006475422,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB054809185,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR371592064,11 digits (OIB number),25
+HU,Hungary,HU001992315,8 digits (Adószám),27
+IE,Ireland,IE707432533,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT655914963,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT229647792,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU268080207,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV346752877,11 digits (PVN numurs),21
+MT,Malta,MT169938763,8 digits (Vat Reg No),18
+NL,Netherlands,NL054605008,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL332355625,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT859032951,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO262230466,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE809066932,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI048996381,8 digits (ID za DDV),22
+SK,Slovakia,SK192414470,10 digits (IČ DPH),23
+AT,Austria,AT377022709,U followed by 8 digits,20
+BE,Belgium,BE270642853,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG251874068,9 or 10 digits,20
+CY,Cyprus,CY948608455,8 digits followed by 1 letter,19
+CZ,Czechia,CZ846937473,"8, 9 or 10 digits",21
+DE,Germany,DE740939012,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK061133518,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE750184333,9 digits (KMKR number),22
+EL,Greece,EL105494663,9 digits (AFM number),24
+ES,Spain,ES966910800,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI829685199,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR492611715,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB694129564,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR889107515,11 digits (OIB number),25
+HU,Hungary,HU872375092,8 digits (Adószám),27
+IE,Ireland,IE304131066,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT682801433,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT632320343,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU618954297,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV753274556,11 digits (PVN numurs),21
+MT,Malta,MT147629758,8 digits (Vat Reg No),18
+NL,Netherlands,NL494890924,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL392397561,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT028015828,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO543021810,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE126899037,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI368564621,8 digits (ID za DDV),22
+SK,Slovakia,SK383457107,10 digits (IČ DPH),23
+AT,Austria,AT697010992,U followed by 8 digits,20
+BE,Belgium,BE735153372,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG412390676,9 or 10 digits,20
+CY,Cyprus,CY479760793,8 digits followed by 1 letter,19
+CZ,Czechia,CZ801917957,"8, 9 or 10 digits",21
+DE,Germany,DE241643596,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK366222128,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE107540771,9 digits (KMKR number),22
+EL,Greece,EL844406823,9 digits (AFM number),24
+ES,Spain,ES088233649,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI700637577,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR207173146,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB859546850,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR223362811,11 digits (OIB number),25
+HU,Hungary,HU988146324,8 digits (Adószám),27
+IE,Ireland,IE554815439,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT596513665,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT187199653,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU699867598,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV435220841,11 digits (PVN numurs),21
+MT,Malta,MT192504350,8 digits (Vat Reg No),18
+NL,Netherlands,NL737045416,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL707651827,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT442930419,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO964797726,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE317920903,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI940459826,8 digits (ID za DDV),22
+SK,Slovakia,SK961504896,10 digits (IČ DPH),23
+AT,Austria,AT393725431,U followed by 8 digits,20
+BE,Belgium,BE693610598,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG098575936,9 or 10 digits,20
+CY,Cyprus,CY023766421,8 digits followed by 1 letter,19
+CZ,Czechia,CZ386285924,"8, 9 or 10 digits",21
+DE,Germany,DE253318309,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK023400223,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE600736990,9 digits (KMKR number),22
+EL,Greece,EL089507109,9 digits (AFM number),24
+ES,Spain,ES806344385,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI094308360,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR696670915,2 alphanumeric characters followed by 9 digits (TVA),20
+GB,United Kingdom,GB225368202,"9 digits, 12 digits, or GD/HA prefix plus 3 digits",20
+HR,Croatia,HR160294116,11 digits (OIB number),25
+HU,Hungary,HU002855120,8 digits (Adószám),27
+IE,Ireland,IE216078013,7 digits plus 1-2 letters (VAT number),23
+IT,Italy,IT059900459,"11 digits, Luhn-style checksum (Partita IVA)",22
+LT,Lithuania,LT676120794,9 to 12 digits (PVM mokėtojo kodas),21
+LU,Luxembourg,LU498228248,8 digits (Numéro d’identification TVA),17
+LV,Latvia,LV521935988,11 digits (PVN numurs),21
+MT,Malta,MT440103235,8 digits (Vat Reg No),18
+NL,Netherlands,NL890728167,"9 digits, B, 2 digits, mod-11 checksum (Btw-identificatienummer)",21
+PL,Poland,PL142242337,"10 digits, weighted mod-11 checksum (NIP)",23
+PT,Portugal,PT960659665,"9 digits, weighted mod-11 checksum (NIF)",23
+RO,Romania,RO042652861,2 to 10 digits (Cod de identificare fiscală),21
+SE,Sweden,SE868555849,"12 digits ending with 01, Luhn checksum (Momsregistreringsnummer)",25
+SI,Slovenia,SI114919259,8 digits (ID za DDV),22
+SK,Slovakia,SK610570074,10 digits (IČ DPH),23
+AT,Austria,AT424054055,U followed by 8 digits,20
+BE,Belgium,BE549593697,"10 digits starting with 0, mod-97 checksum",21
+BG,Bulgaria,BG360760661,9 or 10 digits,20
+CY,Cyprus,CY103336512,8 digits followed by 1 letter,19
+CZ,Czechia,CZ942932124,"8, 9 or 10 digits",21
+DE,Germany,DE625773994,9 digits (Umsatzsteuer-Identifikationsnummer),19
+DK,Denmark,DK171567147,"8 digits, mod-11 checksum (CVR/Moms)",25
+EE,Estonia,EE770520477,9 digits (KMKR number),22
+EL,Greece,EL934199579,9 digits (AFM number),24
+ES,Spain,ES789971450,"8 digits plus letter, or letter plus 7 digits plus letter (NIF/CIF)",21
+FI,Finland,FI016821840,"8 digits, mod-11 checksum (ALV-numero)",25.5
+FR,France,FR006755514,2 alphanumeric characters followed by 9 digits (TVA),20
